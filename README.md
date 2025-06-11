@@ -1,7 +1,7 @@
 # Hello, I'm Elizabeth
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Welcome to my portfolio! I am a dedicated professional with over 14 years of experience in education and a strong passion for security, incident response, and threat analysis. This collection showcases my hands-on work, laboratories, and projects as I pursue a transition into the Cyber Security domain.
+Welcome to my portfolio! I am a dedicated professional with over 15 years of experience in education and a strong passion for security, incident response, and threat analysis. This collection showcases my hands-on work, laboratories, and projects as I pursue a transition into the Cyber Security domain.
 ## Objective
 
 I am eager to demonstrate my practical skills through a range of projects, labs, and hands-on work, reflecting my technical proficiency and problem-solving abilities. My goal is to showcase my capability to support organisational security initiatives and contribute effectively to safeguarding digital assets.
