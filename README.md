@@ -10,7 +10,7 @@ I am eager to demonstrate my practical skills through a range of projects, labs,
 
 | Skill Category                         | Associated Projects                                                                                     |
 |----------------------------------------|---------------------------------------------------------------------------------------------------------|
-| **Network Security & Design**          |  <a href="https://google.com">- Intro to Wazuh: Setup and Malware Detection<br> - VirusTotal Integration and Windows Defender, Sysmon Logging </a>|
+| **Network Security & Design**          |  <a href="https://github.com/Elizabethmhma/Wazuh-Setup-and-Malware-Detection">- Intro to Wazuh: Setup and Malware Detection<br> - VirusTotal Integration and Windows Defender, Sysmon Logging </a>|
 | **Vulnerability Assessment & Exploitation** | <a href="https://google.com">- Kali Linux: Pen testing tools (Nmap, Metasploit, Burp Suite)<br>-<a href="https://google.com"> Metasploitable 2: Vulnerable target environment |
 | **SIEM & Log Analysis**                  |  <a href="https://google.com"> - Wazuh Part 3: Sysmon Tuning and Custom Rules<br>  <a href="https://google.com"> - Wazuh CTF Walkthroughs (Standard and Cloud)<br> <a href="https://google.com"> - Sysmon Familiarisation with Splunk<br>- Splunk: Threat hunting, log analysis |
 | **Threat Hunting & Detection**           | - Cyber Threat Hunting with Splunk: Reconnaissance and Initial Access<br>- Splunk Part 2: Detecting Lateral Movement with WMI<br>- APT29 Threat Hunting with Splunk<br>- Purple Team Exercise 3: LLMNR Poisoning<br>- Purple Team Exercise 4: C2 Frameworks (PowerShell Empire, Sliver)  |
